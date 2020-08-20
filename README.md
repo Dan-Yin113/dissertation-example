@@ -1,6 +1,6 @@
 This script implements the example case from the dissertation
        
-       Optimizing Gas Networks Using Path-Stability
+'Optimizing Gas Networks Using Path-Stability'
 
 by Dan Yin
 
